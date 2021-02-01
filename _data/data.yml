@@ -104,9 +104,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A few papers I have had the privilege of co-authoring and having published over the past several years.
     papers:
       - title: Demystifying Artificial Intelligence in Pharmacy
         link: "https://academic.oup.com/ajhp/advance-article-abstract/doi/10.1093/ajhp/zxaa218/5867281?redirectedFrom=fulltext"
@@ -132,15 +130,18 @@ skills:
 
       - name: HTML5 & CSS
         level: 95%
+
+      - name: RxNorm
+        level: 95%
         
       - name: SQL
         level: 90%
         
-      - name: Python & Django
-        level: 85%
-
       - name: ReactJS
         level: 85%
 
+      - name: Python & Django
+        level: 80%
+
 footer: >
-    Designed with <i class="fas fa-head-side-brain"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-brain"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
