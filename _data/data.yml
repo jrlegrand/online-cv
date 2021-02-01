@@ -25,20 +25,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Cooking
-        link:
-
-      - item: Live Music
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
