@@ -125,9 +125,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Epic (Inpatient Orders, Clarity, Caboodle, Cogito, OpTime, Clinical Data Model)
+      - name: Epic
         level: 98%
 
+      - name: FDA Data
+        level: 98%
+        
       - name: HTML5 & CSS
         level: 95%
 
@@ -144,4 +147,4 @@ skills:
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-brain"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
