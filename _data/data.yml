@@ -83,7 +83,7 @@ projects:
     assignments:
       - title: CodeRx
         link: "https://coderx.io/"
-        tagline: "A website with guides, resources, and posts about pharmacy-related health tech topics -- as well as a Slack community of pharmacy and technology experts."
+        tagline: "A website with guides, resources, and posts about pharmacy-related health tech topics, as well as a Slack community of pharmacy and technology experts."
 
       - title: ParseRx
         link: "https://parserx.io/"
@@ -108,42 +108,39 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Demystifying Artificial Intelligence in Pharmacy
+        link: "https://academic.oup.com/ajhp/advance-article-abstract/doi/10.1093/ajhp/zxaa218/5867281?redirectedFrom=fulltext"
+        authors: Scott D Nelson, PharmD, MS, Colin G Walsh, MD, MA, Casey A Olsen, PharmD, Andrew J McLaughlin, PharmD, MBA, Joseph R LeGrand, PharmD, MS, Nick Schutz, PharmD, Thomas A Lasko, MD, PhD
+        conference: "American Journal of Health-System Pharmacy, July 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Is the Climb Worth the View? The Savings/Alert Ratio for Reducing Vitamin D Testing
+        link: "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1701678"
+        authors: Chase D. Hendrickson, Michael F. McLemore, Kathryn M. Dahir, Shari Just, Zahra Shajani-Yi, Joseph LeGrand, Christoph U. Lehmann, Asli Weitkamp
+        conference: "Applied Clinical Informatics, December 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Clinical Decision Support for High Risk Medications at the Point of Prescribing
+        link: "https://www.researchgate.net/publication/322623132_Clinical_decision_support_for_high_risk_medications_at_the_point_of_prescribing"
+        authors: Joseph R. LeGrand, PharmD, Erin B. Neal, PharmD, Bryan E. Shepherd, PhD, Scott D. Nelson, PharmD, MS, Shane P. Stenner, MD, MS 
+        conference: "AMIA Annual Symposium Proccedings, November 2016"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Epic (Inpatient Orders, Clarity, Caboodle, Cogito, OpTime, Clinical Data Model)
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
+        
+      - name: SQL
+        level: 90%
+        
+      - name: Python & Django
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: ReactJS
+        level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-head-side-brain"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
