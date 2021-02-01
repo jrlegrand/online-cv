@@ -78,43 +78,37 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Application Analyst, Acute Clinicals
+      time: Mar 2020 - Present
+      company: Vanderbilt University Medical Center, Nashville, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Principal Application Analyst
+      time: Mar 2016 - Mar 2020
+      company: Vanderbilt University Medical Center, Nashville, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Participate in planning sessions with key stakeholders to determine future clinical workflows
+        - Build procedure order and user records within Epic based on requirements from clinical subject matter experts
+        - Assist with analysis of other major topics relating to the transition, such as knowledge management and application rationalization
+        - Customize and design clinical decision support (CDS) in the form of panels, preference lists, order sets, and best practice advisories (BPAs)
+        - Build inpatient order sets with a focus on increasing standardization while promoting patient safety and end user satisfaction
+    - role: Principal Domain Specialist, E-Prescribing
+      time: Aug 2015 – Mar 2016
+      company: Vanderbilt University Medical Center, Nashville, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Manage a variety of technical and clinical projects using agile methodology with a team of developers and analysts
+        - Oversee complete UI overhaul of RxStar (VUMC's e-prescribing application), including an improved clinical decision support (CDS) interface
+        - Improve overall quality and consistency of e-prescribing through user training, terminology standardization, and duration defaulting
+        - Develop a point-of-prescribing high risk medication alert for elderly patients within RxStar based on the Beers Criteria
+        - Perform data mining and analysis using SQL queries and Tableau visualizations
+    - role: Product Consultant
+      time: Feb 2020 - Present
+      company: GraphiteRx, Nashville, TN
+      details: |
+        - Create a custom source of free drug information by parsing and normalizing OpenFDA data with Python and SQL
+        - Develop a toolbox of solutions for rapidly obtaining comprehensive pharmaceutical and supply catalogs from a variety of sources (Excel functions, PDF conversions, Python scripts, SQL queries, web scraping)
+        - Strategically load over 50 complete supplier catalogs comprising over 21,000 products into the database
+        - Work closely with leadership to reconfigure data structure of supplier / product relationships to greatly reduce maintenance and duplication of products
+        - Maintain catalog metadata and periodically perform data analysis within Salesforce to clean up and standardize the catalog database
 projects:
     title: Projects
     intro: >
