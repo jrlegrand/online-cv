@@ -36,11 +36,11 @@ career-profile:
       several personal healthcare-related web development side projects.
 education:
     - degree: Masters of Health Informatics (MSHI)
-      university: University of Illinois at Chicago
-      time: 2014 - 2019 (part time thoughout)
+      university: University of Illinois at Chicago, Chicago, IL
+      time: 2014 - 2019 (part time)
       details:
     - degree: Doctor of Pharmacy (PharmD)
-      university: Bristol University
+      university: Butler University, Indianapolis, IN
       time: 2005 - 2011
       details:
 experiences:
@@ -78,29 +78,28 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      With the spare time I have left in the day, I am constantly working on projects.  These are
+      a few I have worked on the most.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CodeRx
+        link: "https://coderx.io/"
+        tagline: "A website with guides, resources, and posts about pharmacy-related health tech topics -- as well as a Slack community of pharmacy and technology experts."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ParseRx
+        link: "https://parserx.io/"
+        tagline: "A free text medication sig parser which extracts individual components (dose, frequency, duration, etc) from medication instructions and converts them into a standardized FHIR data structure."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Fill View
+        link: "https://legrand.io/fill-view/"
+        tagline: "An interactive data visualization model for opioid fill data to help clinicians visualize risk of diversion of controlled substances by highlighting potential risk facts at a glance."
 
-      - title: Atom
+      - title: Local Lineup
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A web app that integrates with several APIs to generate a playlist of Spotify songs for artists playing in a city, as well as a Mailchimp newsletter."
 
-      - title: Delta
+      - title: Topular
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A web app that scrapes RSS feeds of local blogs and news sources to find interesting articles locally in your city and ranks them based on social impact."
 
 publications:
     title: Publications
