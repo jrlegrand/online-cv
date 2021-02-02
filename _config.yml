@@ -1,9 +1,11 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
+# Site Settings
+title: Joseph LeGrand Online CV
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
+description: Joseph LeGrand is a full stack pharmacist with 5 years experience in retail pharmacy and 5+ years in health IT with a continuous stream of web development work throughout.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 
